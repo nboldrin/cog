@@ -1,0 +1,13 @@
+cog.egg-info
+*.pyc
+cogdb.egg-info
+dist
+.idea/
+.project
+.pydevproject
+build/
+test.png
+.coverage
+test/.coverage
+.venv/
+.vscode/
