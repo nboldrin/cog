@@ -9,5 +9,5 @@ build/
 test.png
 .coverage
 test/.coverage
-.venv/
+.venv
 .vscode/
